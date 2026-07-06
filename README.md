@@ -1,6 +1,8 @@
 # Text Compression Dashboard using Huffman and Shannon-Fano Coding
 
 This project is a Streamlit-based web application that demonstrates and compares two lossless data compression algorithms: Huffman Coding and Shannon-Fano Coding. Users can enter text manually or upload text files, compress the data using both algorithms, compare their performance, and download the compressed output.
+<img width="1919" height="907" alt="Screenshot 2026-07-06 214439" src="https://github.com/user-attachments/assets/d8c3eb18-8074-415a-9775-2d168255181b" />
+<img width="1914" height="909" alt="Screenshot 2026-07-06 214518" src="https://github.com/user-attachments/assets/fe2e3527-ba74-43b8-8644-8dbbe0e4440f" />
 
 ---
 
